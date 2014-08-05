@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ning's blog]]></title>
-  <link href="http://baddog.github.io/atom.xml" rel="self"/>
-  <link href="http://baddog.github.io/"/>
-  <updated>2014-07-07T13:35:10+08:00</updated>
-  <id>http://baddog.github.io/</id>
+  <title><![CDATA[Ning Feng]]></title>
+  <link href="http://blog.ninng.com/atom.xml" rel="self"/>
+  <link href="http://blog.ninng.com/"/>
+  <updated>2014-08-05T16:08:12+08:00</updated>
+  <id>http://blog.ninng.com/</id>
   <author>
     <name><![CDATA[ning]]></name>
     
