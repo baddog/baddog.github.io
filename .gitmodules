@@ -1,0 +1,12 @@
+[submodule ".themes/darkstripes"]
+	path = .themes/darkstripes
+	url = git://github.com/amelandri/darkstripes.git
+[submodule ".themes/darkstripes2"]
+	path = .themes/darkstripes2
+	url = https://github.com/amelandri/darkstripes.git
+[submodule ".themes/MediumFox"]
+	path = .themes/MediumFox
+	url = https://github.com/sevenadrian/MediumFox
+[submodule ".themes/whitespace"]
+	path = .themes/whitespace
+	url = https://github.com/lucaslew/whitespace.git
